@@ -1,0 +1,1 @@
+alter table employee_payroll rename column salary to basic_pay;

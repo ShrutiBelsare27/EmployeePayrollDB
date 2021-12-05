@@ -1,0 +1,1 @@
+alter table employee_payroll add Net_Pay real;

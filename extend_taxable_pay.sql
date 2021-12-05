@@ -1,0 +1,1 @@
+alter table employee_payroll add Taxable_Pay real;
